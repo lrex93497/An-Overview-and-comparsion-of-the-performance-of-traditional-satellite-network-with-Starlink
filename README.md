@@ -269,8 +269,8 @@ style="width:1.02798in;height:1.55488in" /><img src="./media/image12.png"
 style="width:1.07459in;height:1.58249in" /><img src="./media/image13.PNG"
 style="width:1.05825in;height:1.59538in" />
 
-<u>Figure 11&12&13: Performance on: (left)Median download bandwidth,
-(mid)Median upload bandwidth, (right)Median latency</u>
+<u>Figure 11&12&13: Performance on: (up)Median download bandwidth,
+(mid)Median upload bandwidth, (low)Median latency</u>
 
 According to the figure above, for both median download and median
 upload bandwidth, both Viasat and HughesNet have similar performance.
