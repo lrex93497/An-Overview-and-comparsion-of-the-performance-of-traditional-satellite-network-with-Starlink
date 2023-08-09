@@ -1,9 +1,18 @@
-**An Overview and comparsion of the performance of traditional satellite
-network with Starlink**
+# An Overview and comparsion of the performance of traditional satellitenetwork with Starlink
 
-**Reminder: This article was written around 17 NOV 2022**
+**Reminder: This article was written around 17 NOV 2022 data may not be up-to-date**
 
-**Introduction**
+# Index
+
+- [Introduction](#introduction)
+- [Traditional satellite network](#traditional-satellite-network)
+- [Performance-enhancing proxies (PEPs)](#performance-enhancing-proxies-peps)
+- [Starlink and some difference between traditional satellite network](#starlink-and-some-difference-between-traditional-satellite-network)
+- [Performance comparison](#performance-comparison)
+- [Conclusion and summary](#conclusion-and-summary)
+- [References](#references)
+
+# Introduction
 
 On the development of the internet technology, space satellites also
 involved to deliver data. This is called satellite network. This
@@ -21,7 +30,7 @@ constellation, on how they work together with terrestrial internet. 2)
 Compare the performance of Starlink with existing traditional satellite
 internet, Viasat and HughesNet in USA.
 
-**Traditional satellite network**
+# Traditional satellite network
 
 In traditional satellite network, it is formed by geostationary
 satellite(s) (orbit around 35786km, GEO) that moving at the speed same
@@ -61,7 +70,7 @@ figure for an illustration.
 <u>Figure 1: Communication with satellite by satellite link (\*The
 satellite is HYLAS 1)</u>
 
-**Performance-enhancing proxies (PEPs)**
+# Performance-enhancing proxies (PEPs)
 
 Before passing data to the satellite protocol layer such as the SCPS
 Transport Protocol for satellite, or receive data from satellite
@@ -129,7 +138,7 @@ related information are not public accessible like Starlink. Abstract
 and general protocol from Consultative Committee for Space Data Systems
 (CCSDS) \[3\] may not applied to actual situation.
 
-**Starlink and some difference between traditional satellite network**
+# Starlink and some difference between traditional satellite network
 
 Starlink is a satellite internet constellation which is operated by
 SpaceX. Unlike the traditional satellite network, it is formed by
@@ -223,7 +232,7 @@ style="width:1.43933in;height:1.6484in" />
 <u>Figure 9&10: VSAT (left) and phased-array antenna (right) used in
 Starlink</u>
 
-**Performance comparison**
+# Performance comparison
 
 The performance of Starlink including upload bandwidth, download
 bandwidth, as well as latency will be compared to those in traditional
@@ -324,7 +333,7 @@ explained by the present of ISLs as aforementioned. Moreover, ISLs is
 still in its early practical status, it may not contribute that much on
 the performance of Starlink for now.
 
-**Conclusion and summary**
+# Conclusion and summary
 
 The Starlink is clearly a satellite internet constellation that has
 significant better performance than that of traditional satellite
