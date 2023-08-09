@@ -265,9 +265,9 @@ Below figures shows median download bandwidth, median upload bandwidth
 and median latency among users mentioned:
 
 <img src="./media/image11.png"
-style="width:2.02798in;height:2.55488in" /><img src="./media/image12.png"
-style="width:2.07459in;height:2.58249in" /><img src="./media/image13.PNG"
-style="width:2.05825in;height:2.59538in" />
+style="width:1.02798in;height:1.55488in" /><img src="./media/image12.png"
+style="width:1.07459in;height:1.58249in" /><img src="./media/image13.PNG"
+style="width:1.05825in;height:1.59538in" />
 
 <u>Figure 11&12&13: Performance on: (left)Median download bandwidth,
 (mid)Median upload bandwidth, (right)Median latency</u>
