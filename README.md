@@ -1,6 +1,6 @@
 # An Overview and comparsion of the performance of traditional satellitenetwork with Starlink
 
-**Reminder: This article was written around 17 NOV 2022 data may not be up-to-date**
+**Reminder: This article was written around 17 NOV 2022, data may not be up-to-date**
 
 # Index
 
